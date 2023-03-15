@@ -1,6 +1,6 @@
 ## *Financial-Inclusion*
 #### Description
-Open the notebook using the google coleb link provided.
+Open the notebook using the google colab link provided.
 #### Installation
 Instal python and it's libraries
 Link to dataset[https://bit.ly/FinancialDataset],[https://bit.ly/DSCoreAutolibDataset]
